@@ -1,6 +1,6 @@
 # The-Odin-Project
 
-My repo for The Odin Project's challenges and projects.
+My repo for The Odin Project's challenges and projects. I intent on finishing all of these as i develop my skills, however i have set myself the goal of finsishing as many as possible while on my two week uni break (18/09/21).
 
 ## Foundations
 
