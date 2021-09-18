@@ -4,7 +4,7 @@ My repo for The Odin Project's challenges and projects.
 
 ## Foundations
 
-- [ ] Recipes
+- [x] [Recipes](https://github.com/Pakesy/The-Odin-Project/tree/main/Recipes)
 - [ ] landing Page
 - [ ] Rock Paper Scissors
 - [ ] Etch-a-Sketch
