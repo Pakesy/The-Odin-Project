@@ -5,7 +5,7 @@ My repo for The Odin Project's challenges and projects. I intend on finishing al
 ## Foundations
 
 - [x] [Recipes](https://github.com/Pakesy/The-Odin-Project/tree/main/Recipes)
-- [ ] landing Page
+- [x] [landing Page](https://github.com/Pakesy/The-Odin-Project/tree/main/Landing%20Page)
 - [ ] Rock Paper Scissors
 - [ ] Etch-a-Sketch
 - [ ] Calculator
