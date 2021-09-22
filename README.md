@@ -6,7 +6,7 @@ My repo for The Odin Project's challenges and projects. I intend on finishing al
 
 - [x] [Recipes](https://github.com/Pakesy/The-Odin-Project/tree/main/Recipes)
 - [x] [landing Page](https://github.com/Pakesy/The-Odin-Project/tree/main/Landing%20Page)
-- [ ] Rock Paper Scissors
+- [x] [Rock Paper Scissors] (https://github.com/Pakesy/The-Odin-Project/tree/main/Rock%20Paper%20Scissors)
 - [ ] Etch-a-Sketch
 - [ ] Calculator
 
